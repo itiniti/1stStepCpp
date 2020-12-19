@@ -1,0 +1,3 @@
+C:\Users\dhtmd\Documents\GitHub\1stStepCpp\1stStepC++\Debug\1stStepc++.exe
+C:\Users\dhtmd\Documents\GitHub\1stStepCpp\1stStepC++\Debug\1stStepc++.pdb
+C:\Users\dhtmd\Documents\GitHub\1stStepCpp\Debug\1stStepc++.pdb
